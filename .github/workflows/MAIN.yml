@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Adithyan78
-          theme: github-dark         # << ✅ THIS MAKES BOXES BLACK
+          theme: dark         # << ✅ THIS MAKES BOXES BLACK
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif

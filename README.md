@@ -20,8 +20,9 @@
 [![](https://visitcount.itsvg.in/api?id=Adithyan78&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
 ![Snake animation](https://raw.githubusercontent.com/Adithyan78/Adithyan78/output/github-contribution-grid-snake.svg)
+
+
 
 
 

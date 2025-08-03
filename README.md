@@ -22,11 +22,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
 
-### SVG (Dark):
-![Snake SVG](https://raw.githubusercontent.com/Adithyan78/Adithyan78/output/github-snake-dark.svg)
+## 🐍 Contribution Snake
 
-### GIF:
-![Snake GIF](https://raw.githubusercontent.com/Adithyan78/Adithyan78/output/github-snake.gif)
-
+![Snake animation](https://raw.githubusercontent.com/Adithyan78/Adithyan78/output/github-snake.svg)

@@ -21,6 +21,7 @@
 
 ---
 
-![Snake animation](https://github.com/Adithyan78/Adithyan78/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Adithyan78/Adithyan78/output/github-contribution-grid-snake.svg)
+
 
 

@@ -19,9 +19,11 @@ jobs:
           github_user_name: Adithyan78
           outputs: |
             dist/github-contribution-grid-snake.svg
-          palette: github-dark     # ✅ Ensures black boxes
+          # Force custom palette for black boxes and dark background
+          color_snake: '#40c463'
+          color_dots: '#161b22,#0e4429,#006d32,#26a641,#39d353'
 
-      - name: Push to output branch
+      - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output

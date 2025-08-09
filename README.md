@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQwYmNobndrNHlzYXV1ZnUyZmYzdGpjNG0zcGg2am9wZ3poZDEyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="600" alt="Motivation GIF" />
 </p>
 
-**_Push yourself. No one else is going to do it for you._**
+**_Strive for progress, not perfection._**
 
 
 

@@ -9,8 +9,17 @@
 
 
 
-# 💫 About Me:
-<br>- 🔥 Full Stack Web Development using **MERN Stack**  <br>  *(MongoDB | Express.js | React.js | Node.js)*  <br>- 📊 Data Science & Machine Learning  <br>  *(Python | Pandas | NumPy | Scikit-Learn | Matplotlib | Jupyter)*  <br>- 📁 Working on projects that combine both fields to create data-driven applications
+# 💫 About Me
+
+- 🔥 I build **full-stack web applications** using the **MERN Stack**  
+  *(MongoDB | Express.js | React.js | Node.js)* — continuously improving my expertise in each technology.  
+
+- 📊 **Currently learning** Data Science & Machine Learning  
+  *(Python | Pandas | NumPy | Scikit-Learn | Matplotlib | Jupyter)* — applying concepts through practical projects.  
+
+- 🚀 Passionate about combining **web development** and **data-driven solutions** to create impactful applications.  
+
+- 💡 Constantly learning, experimenting, and expanding my skill set.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 

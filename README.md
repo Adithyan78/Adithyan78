@@ -37,8 +37,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyan78&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adithyan78&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=Adithyan78&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+## 🔍 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adithyan78&label=Profile%20views&color=ff0000&style=for-the-badge" alt="views" />
+</p>
+
 
 ---
 

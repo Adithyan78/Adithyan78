@@ -11,15 +11,15 @@
 
 # 💫 About Me
 
-- 🔥 I build **full-stack web applications** using the **MERN Stack**  
+-  I build **full-stack web applications** using the **MERN Stack**  
   *(MongoDB | Express.js | React.js | Node.js)* — continuously improving my expertise in each technology.  
 
-- 📊 **Currently learning** Data Science & Machine Learning  
+- **Currently learning** Data Science & Machine Learning  
   *(Python | Pandas | NumPy | Scikit-Learn | Matplotlib | Jupyter)* — applying concepts through practical projects.  
 
-- 🚀 Passionate about combining **web development** and **data-driven solutions** to create impactful applications.  
+- Passionate about combining **web development** and **data-driven solutions** to create impactful applications.  
 
-- 💡 Constantly learning, experimenting, and expanding my skill set.
+- Constantly learning, experimenting, and expanding my skill set.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 

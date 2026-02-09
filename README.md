@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY4Y3dnNmZhYjl3aGl1NWtvZWJkZ2EwY3B0dnE0YmthaHV2dzlpMCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/WK7omsLop0431tZjXb/giphy.webp" width="600" alt="Motivation GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGVqN3h0bmU3cTNzdjltZzRpZHhjcmFmMDVwZG93bXY5ZHMyaTBrcyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/QmsFIUxH4YImGPHNyR/giphy.webp" width="600" alt="Motivation GIF" />
 </p>
 
 **_Strive for progress, not perfection._**

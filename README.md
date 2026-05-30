@@ -32,7 +32,7 @@
 </p>
 
 <!-- MOTIVATION GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Coding motivation"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRxbWJxZ2VxM2dsYXVtMzIzaGg5aXJsZzhqdHZhbGFsZHNmMDNvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/viam2H9AwPgakZVhR9/giphy.gif" width="520" alt="Coding motivation"/>
 
 <br/>
 
@@ -90,7 +90,6 @@ me.say_hi()
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -109,9 +108,6 @@ me.say_hi()
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
 </div>
 
 ---
@@ -140,11 +136,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center"> <img src="https://img.shields.io/badge/Pull%20Shark-Active-blue?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/MERN-Fullstack-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%2FML-Developer-purple?style=for-the-badge"/> </p>
-
----
 
 ## 🎓 Certifications & Achievements
 

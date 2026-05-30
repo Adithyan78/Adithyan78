@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Gmail-adithyanb38%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/adithyan-b">
+  <a href="www.linkedin.com/in/adithyan-b----">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;

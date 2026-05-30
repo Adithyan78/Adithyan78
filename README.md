@@ -142,9 +142,7 @@ me.say_hi()
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adithyan78&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-</div>
+<p align="center"> <img src="https://img.shields.io/badge/Pull%20Shark-Active-blue?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/MERN-Fullstack-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%2FML-Developer-purple?style=for-the-badge"/> </p>
 
 ---
 

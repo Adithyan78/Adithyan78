@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/GitHub-Adithyan78-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/Adithyan78">
+  <a href="https://leetcode.com/u/K3hqnMTeOf/">
     <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>

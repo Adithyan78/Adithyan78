@@ -32,7 +32,7 @@
 </p>
 
 <!-- MOTIVATION GIF -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p3MTd3bmMwZDQxY3gxMjQyMWRqMmx3cjBuMXp4c3NnaHZvZ21tNCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/OuQmhmAAdJFLi/giphy.webp" width="520" alt="Coding motivation"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRxbWJxZ2VxM2dsYXVtMzIzaGg5aXJsZzhqdHZhbGFsZHNmMDNvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/viam2H9AwPgakZVhR9/giphy.gif" width="520" alt="Coding motivation"/>
 
 <br/>
 
